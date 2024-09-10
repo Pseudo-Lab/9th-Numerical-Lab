@@ -68,5 +68,15 @@ https://jonghank.github.io/ase7030.html
 💡 주차별 진행계획은 러너(스터디원)분들과 협의에 의해 변경될 수 있습니다.
 
 | 주차 | 날짜 | 내용 | 발표자 | 자료공유 |
-| - | - | - | - | - |
+| --- | --- | --- | --- | --- |
 | 1주 | 2024/09/17 | OT (스터디 소개, 방향 논의, Ice breaking) | 임진우 | 추후공유 |
+| 2주 | 2024/09/24 | Numpy, Matplotlib, Pandas 기초 | TBD | 추후공유 |
+| 3주 | 2024/10/01 | Differential Equations and Dynamical Systems | TBD | 추후공유 |
+| 4주 | 2024/10/08 | Fourier Transform and Sound Signals | TBD | 추후공유 |
+| 5주 | 2024/10/15 | Bayesian Inference | TBD | 추후공유 |
+| 6주 | 2024/10/22 | Monte-Carlo Methods | TBD | 추후공유 |
+| 7주 | 2024/10/29 | Estimation and Filtering | TBD | 추후공유 |
+| 8주 | 2024/11/05 | Image Processing | TBD | 추후공유 |
+| 9주 | 2024/11/12 | Supervised Learning | TBD | 추후공유 |
+| 10주 | 2024/11/19 | Unsupervised Learning | TBD | 추후공유 |
+| 11주 | 2024/11/26 | Polynomial Fit in Python, Julia, and Matlab | TBD | 추후공유 |
