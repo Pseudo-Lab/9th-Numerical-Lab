@@ -8,12 +8,8 @@
 2. 실제 현실세계에서 발생되는 물리적 문제들에 대해서 수치해석적 사고방법을 적용해보는 것
 3. 그동안 배운 선형대수학, 파이썬을 사용하여 공학적 문제를 풀어보기
 ### 프로젝트 내용
-1. [DataCamp](https://app.datacamp.com)[Machine Learning Engineer](https://app.datacamp.com/learn/career-tracks/machine-learning-engineer) 수업
-    - 12개 코스, 44시간 분량, 2개의 미니 프로젝트로 구성
-    - 매주 정해진 분량을 학습하고, 모임에서 공부한 내용을 공유
-2. 토이프로젝트
-    - DataCamp Career Track과 병행하며 주제를 선정하고, 토이프로젝트 주제 공유
-    - 토이 프로젝트를 진행하고, 진행 상황을 공유 
+1. [수치해석 프로젝트](!https://jonghank.github.io/ase3001.html) 영상 시청 및 풀이
+2. [고급선형대수 알고리즘](!https://www.youtube.com/watch?v=CytxrmaUY98&list=PL9k2wIz8VsfMn-03Oe7Hmf1ZSTzvFDikk) 으로 선형대수 개념 학습(PCA, SVD, Eigenvalue, positive definite 등등)
 
 ## 모집 대상
 
