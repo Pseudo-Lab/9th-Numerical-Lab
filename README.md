@@ -3,13 +3,18 @@
 "수치해석프로젝트"
 - 제어 알고리즘 공부, 생각보다 배울 게 정말 많죠? 푸리에 변환부터 시뮬레이션, 선형화를 통한 최적 제어까지… 공부할 것들이 많아서 막막하신가요?
 
+
 ### 프로젝트 목표
-1. 주어진 문제를 잘 풀기(?)
+1. 여러가지 공학적 문제를 해결하기 위한 코딩 능력을 기르기
 2. 실제 현실세계에서 발생되는 물리적 문제들에 대해서 수치해석적 사고방법을 적용해보는 것
-3. 그동안 배운 선형대수학, 파이썬을 사용하여 공학적 문제를 풀어보기
+
+
 ### 프로젝트 내용
-1. [수치해석 프로젝트](https://jonghank.github.io/ase3001.html) 영상 시청 및 풀이
-2. [고급선형대수 알고리즘](https://www.youtube.com/watch?v=CytxrmaUY98&list=PL9k2wIz8VsfMn-03Oe7Hmf1ZSTzvFDikk) 으로 선형대수 개념 학습(PCA, SVD, Eigenvalue, positive definite 등등)
+1. [고급선형대수 알고리즘](https://www.youtube.com/watch?v=CytxrmaUY98&list=PL9k2wIz8VsfMn-03Oe7Hmf1ZSTzvFDikk) 으로 고급선형대수 개념 학습(PCA, SVD, Eigenvalue, positive definite 등등)
+2. [신호및시스템](https://www.youtube.com/watch?v=hFESdfFDz44&list=PL_iJu012NOxcDuKgSjTKJZJd3bQtkAyZU)으로 신호및시스템 알고리즘 학습
+3. Numpy와 Jax(기회가 된다면!)를 통해 [수치해석 프로젝트](https://jonghank.github.io/ase3001.html) 과제 풀이
+
+
 
 ## 모집 대상
 
@@ -57,22 +62,28 @@ https://jonghank.github.io/ase7030.html
 
     
 2. **학습 활동**
-- 주차별 학습내용 Jupyter Book 형태로 정리
+- 주차별 학습내용 PPT와 과제 풀이를 Jupyter Notebook형태로 공유
 - 학습 내용에 대한 질문 및 공유
 
 ## 주차별 목표와 학습 내용
 💡 주차별 진행계획은 러너(스터디원)분들과 협의에 의해 변경될 수 있습니다.
 
-| 주차 | 날짜 | 내용 | 발표자 | 자료공유 |
-| --- | --- | --- | --- | --- |
-| 1주 | 2024/09/17 | OT (스터디 소개, 방향 논의, Ice breaking) | 임진우 | 추후공유 |
-| 2주 | 2024/09/24 | Numpy, Matplotlib, Pandas 기초 | TBD | 추후공유 |
-| 3주 | 2024/10/01 | Differential Equations and Dynamical Systems | TBD | 추후공유 |
-| 4주 | 2024/10/08 | Fourier Transform and Sound Signals | TBD | 추후공유 |
-| 5주 | 2024/10/15 | Bayesian Inference | TBD | 추후공유 |
-| 6주 | 2024/10/22 | Monte-Carlo Methods | TBD | 추후공유 |
-| 7주 | 2024/10/29 | Estimation and Filtering | TBD | 추후공유 |
-| 8주 | 2024/11/05 | Image Processing | TBD | 추후공유 |
-| 9주 | 2024/11/12 | Supervised Learning | TBD | 추후공유 |
-| 10주 | 2024/11/19 | Unsupervised Learning | TBD | 추후공유 |
-| 11주 | 2024/11/26 | Polynomial Fit in Python, Julia, and Matlab | TBD | 추후공유 |
+| 주차  | 날짜        | 내용                                                           | 발표자  | 자료공유 |
+| ---  | ---------- | ------------------------------------------------------------- | ------- | -------- |
+| 1주  | 2024/09/17 | OT (스터디 소개, 방향 논의, Ice breaking)                     | 임진우  | 추후공유 |
+| 2주  | 2024/09/24 | Numpy, Matplotlib, Pandas 기초                                  | TBD     | 추후공유 |
+| 3주  | 2024/10/01 | Differential Equations and Dynamical Systems                   | TBD     | 추후공유 |
+| 4주  | 2024/10/08 | Fourier Transform and Sound Signals                            | TBD     | 추후공유 |
+| 5주  | 2024/10/15 | Bayesian Inference                                             | TBD     | 추후공유 |
+| 6주  | 2024/10/22 | Monte-Carlo Methods                                            | TBD     | 추후공유 |
+| 7주  | 2024/10/29 | Estimation and Filtering                                       | TBD     | 추후공유 |
+| 8주  | 2024/11/05 | Image Processing                                               | TBD     | 추후공유 |
+| 9주  | 2024/11/12 | Supervised Learning                                            | TBD     | 추후공유 |
+| 10주 | 2024/11/19 | Unsupervised Learning                                          | TBD     | 추후공유 |
+| 11주 | 2024/11/26 | Polynomial Fit in Python, Julia, and Matlab                    | TBD     | 추후공유 |
+| 12주 | 2024/12/03 | Convex Optimization Overview                  | TBD     | 추후공유 |
+| 13주 | 2024/12/10 | Convex Problems & Gradient Descent             | TBD     | 추후공유 |
+| 14주 | 2024/12/17 | Newton's Method & Gauss-Newton Method       | TBD     | 추후공유 |
+| 15주 | 2024/12/24 | Quasi-Newton Methods (혁펜하임)                      | TBD     | 추후공유 |
+| 16주 | 2024/12/31 | Lagrangian Multipliers & KKT Conditions      | TBD     | 추후공유 |
+| 17주 | 2025/01/07 | Interior Point Methods & Primal-Dual Methods    | TBD     | 추후공유 |
