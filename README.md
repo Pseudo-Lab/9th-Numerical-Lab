@@ -58,9 +58,11 @@
 
 
 ### 학습 자료
-https://jonghank.github.io/ase3001.html
-https://jonghank.github.io/ase6029.html
-https://jonghank.github.io/ase7030.html
+[수치해석프로젝트, 과제](https://jonghank.github.io/ase3001.html)
+
+[선형최적제어(강의자료만사용)](https://jonghank.github.io/ase6029.html)
+
+[볼록 최적화(강의자료만사용)](https://jonghank.github.io/ase7030.html)
 
 * 주 발표자는 주에 할당된 강의를 시청한 후 요약한다음 발표하셔야 합니다.
 * 보조 발표자는 김종한 교수님의 문제를 기반으로 자신의 풀이 방법 및, 코드 개선 방안등에 대해서 ipynb형태 또는 PPT로 발표하셔야 합니다. 
